@@ -1,7 +1,5 @@
 ### Hi there I am İpek👋
 
-<!--
-**ipek-yilmaz/ipek-yilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 •	⚡️ I am excited about making and learning AI & DL & ML. I have a strong passion for creating new approaches about NLP and  Computer Vision.
